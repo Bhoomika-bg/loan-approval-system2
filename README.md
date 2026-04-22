@@ -106,3 +106,6 @@ It demonstrates **AI search techniques instead of machine learning models**.
 ## 👩‍💻 Author
 
 BHOOMIKA BG
+JAHNAVI
+MADHUSHREE
+LIKITHA
